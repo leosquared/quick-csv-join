@@ -1,0 +1,4 @@
+file_name,columns_in_join,display_columns
+aap_performance.csv,"Creative, Date","Creative, Date, Order Name, Line Item, Total Cost"
+dcm_performance.csv,"Placement, Date","Placement, Date, Impressions, Total Conversions"
+aap_performance_2.csv,"Another Name For Creative, Date",Another Metric
